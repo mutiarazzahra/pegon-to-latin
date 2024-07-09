@@ -15,10 +15,7 @@ The Pegon to Latin Transliterator is a model developed to perform the task of Pe
 3. fastText-BiLSTM-Att
 4. fastText-BiGRU-Att
 
-Link pre-trained model:
-
-https://drive.google.com/drive/folders/1dl0iGuZf7HJwDnjbVk-hubX6i9r7en-I?usp=drive_link
-
+[Link pre-trained model](https://drive.google.com/drive/folders/1dl0iGuZf7HJwDnjbVk-hubX6i9r7en-I?usp=sharing)
 
 
 
